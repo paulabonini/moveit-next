@@ -2,6 +2,22 @@
 
 ## Pomodoro technique with labor exercises.
 
+-------------------------------------------
+
+Start the counter:
+
+![Counter GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/counter.gif)
+
+If you fail it will restart:
+
+![Failed GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/failed.gif)
+
+But, if you succeed you will earn xp and maybe get a level up:
+
+![Succeeded GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/succeeded.gif)
+
+-------------------------------------------
+
 ### Getting Started 🚀
 
 These instructions will get you a copy of the full project up and running on your local machine for development purposes.
