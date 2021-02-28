@@ -2,6 +2,8 @@
 
 ## Pomodoro technique with labor exercises.
 
+### 🚧 Status: In progress... 🚧
+
 -------------------------------------------
 
 Start the counter:
