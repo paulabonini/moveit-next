@@ -6,7 +6,7 @@
 
 Start the counter:
 
-![Counter GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/counter.gif)
+![Counter GIF](https://github.com/paulabonini/moveit-next/blob/main/assets-readme/counter.gif)
 
 If you fail it will restart:
 
