@@ -5,16 +5,16 @@
 }
 
 :root {
-  --white:#fff;
-  --background: #F2F3F5;
+  --gray-dark:rgba(27, 27, 27, 0.733);
+  --background: #16123be5;
   --gray-line: #DCDDE0;
   --text: #666666;
   --text-highlight: #B3B9FF;
-  --title: #2E384D;
-  --red: #E83F5B;
+  --title: #5e8ce9;
+  --red: #e83f5b54;
   --green: #4CD62B;
-  --blue: #5965E0;
-  --blue-dark: #4953B8;
+  --blue: #2aa4b4;
+  --blue-dark: #236377;
   --blue-twitter: #2AA9E0;
 }
 
