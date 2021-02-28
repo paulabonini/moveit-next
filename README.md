@@ -10,11 +10,11 @@ Start the counter:
 
 If you fail it will restart:
 
-![Failed GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/failed.gif)
+![Failed GIF](https://github.com/paulabonini/moveit-next/blob/main/assets-readme/failed.gif)
 
 But, if you succeed you will earn xp and maybe get a level up:
 
-![Succeeded GIF](https://github.com/paulabonini/moveit-next/tree/main/assets-readme/succeeded.gif)
+![Succeeded GIF](https://github.com/paulabonini/moveit-next/blob/main/assets-readme/succeeded.gif)
 
 -------------------------------------------
 
