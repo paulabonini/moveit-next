@@ -1,3 +1,27 @@
+.container {
+  height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+
+  background: var(--blue-dark);
+}
+
+.container section {
+  flex: 1;
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .25rem;
+  align-content: center;
+}
+
+.container section .simbolo img {
+  width: 80%;
+}
+
+
 .loginBoxContainer {
   margin-top: 2.8rem;
 
@@ -17,20 +41,45 @@
   font-weight: 600;
 }
 
+.loginBoxContainer footer {
+  display: flex;
+
+}
+
 .loginBoxContainer footer .loginButton {
   height: 2.5rem;
   width: 2.5rem;
 
-  background: var(--blue-dark);
+  background: linear-gradient( to right, var(--blue-dark), var(--login-button));
 
   border: 0;
   border-radius: 5px;
 
   font-size: 1.5rem;
+  color: var(--white);
 
   transition: filter 0.2s;
 }
 
 .loginBoxContainer footer .loginButton:hover {
+  filter: brightness(0.9);
+}
+
+.loginBoxContainer footer input {
+  height: 2.5rem;
+
+  background: linear-gradient( to left, var(--blue-dark), var(--login-button));
+
+  border: 0;
+  border-radius: 5px;
+  padding: 1rem;
+
+  font-size: 1rem;
+  color: var(--white);
+
+  transition: filter 0.2s;
+}
+
+.loginBoxContainer footer input:hover {
   filter: brightness(0.9);
 }
