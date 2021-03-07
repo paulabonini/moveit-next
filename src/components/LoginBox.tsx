@@ -14,9 +14,12 @@ export function LoginBox() {
           <img src="/icons/Git.png" alt="Logo Github" />
         </main>
         <footer>
-          <input type="text">Digite seu username</input>
-          <button type="button">
-            seguir
+          <input type="text" />
+          <button
+            type="button"
+            className={styles.loginButton}
+          >
+            ->
           </button>
         </footer>
       </div>
