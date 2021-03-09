@@ -8,7 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "js-cookie": "^2.2.1",
     "next": "10.0.7",
     "node-modules": "^1.0.1",
